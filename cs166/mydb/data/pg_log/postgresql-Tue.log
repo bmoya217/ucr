@@ -1,0 +1,36 @@
+LOG:  database system was shut down at 2016-11-29 09:15:18 PST
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  table "users" does not exist
+STATEMENT:  DROP TABLE Users CASCADE;
+ERROR:  table "orders" does not exist
+STATEMENT:  DROP TABLE Orders CASCADE;
+ERROR:  table "menu" does not exist
+STATEMENT:  DROP TABLE Menu CASCADE;
+ERROR:  table "itemstatus" does not exist
+STATEMENT:  DROP TABLE ItemStatus;
+ERROR:  could not open file "menu.csv" for reading: No such file or directory
+STATEMENT:  COPY MENU
+	FROM 'menu.csv'
+	WITH DELIMITER ';';
+ERROR:  could not open file "users.csv" for reading: No such file or directory
+STATEMENT:  COPY USERS
+	FROM 'users.csv'
+	WITH DELIMITER ';';
+ERROR:  could not open file "orders.csv" for reading: No such file or directory
+STATEMENT:  COPY ORDERS
+	FROM 'orders.csv'
+	WITH DELIMITER ';';
+ERROR:  could not open file "itemStatus.csv" for reading: No such file or directory
+STATEMENT:  COPY ITEMSTATUS
+	FROM 'itemStatus.csv'
+	WITH DELIMITER ';';
+LOG:  checkpoints are occurring too frequently (3 seconds apart)
+HINT:  Consider increasing the configuration parameter "checkpoint_segments".
+LOG:  received smart shutdown request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-11-29 09:55:51 PST
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections

@@ -1,0 +1,7 @@
+lud 
+mall
+war
+This list of word include many facets of the problem but may not test all. Armed
+with your with and a tool for development, you should create multiple possible
+scenariios to test whether your program hits the ball out of the park and
+executes correct.

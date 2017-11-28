@@ -1,0 +1,5 @@
+Max flow obtained: 8
+Vertices in min cut: 1 2 3 4 5 6
+Flow rate: 3 Path: 1 4 6 7
+Flow rate: 3 Path: 1 2 5 7
+Flow rate: 2 Path: 1 4 6 3 5 7

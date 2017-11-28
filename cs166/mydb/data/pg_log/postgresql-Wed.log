@@ -1,0 +1,25 @@
+ERROR:  column "drinks" does not exist at character 60
+STATEMENT:  SELECT itemName, price, description FROM Menu WHERE type = Drinks              
+ERROR:  column "comment" of relation "itemstatus" does not exist at character 23
+STATEMENT:  UPDATE ItemStatus SET comment = 'Test new comment' WHERE orderid = '10' AND itemname = 'Pudding                                           '
+ERROR:  column "comment" of relation "itemstatus" does not exist at character 23
+STATEMENT:  UPDATE ItemStatus SET comment = 'Test Comment.' WHERE orderid = '10' AND itemname = 'Pudding                                           '
+LOG:  received smart shutdown request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-11-30 14:21:48 PST
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+LOG:  checkpoints are occurring too frequently (27 seconds apart)
+HINT:  Consider increasing the configuration parameter "checkpoint_segments".
+LOG:  received smart shutdown request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-11-30 21:40:43 PST
+LOG:  database system is ready to accept connections
+LOG:  autovacuum launcher started
+ERROR:  duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (login)=(a                                                 ) already exists.
+STATEMENT:  INSERT INTO USERS (phoneNum, login, password, favItems, type) VALUES ('a','a','a','','Customer')

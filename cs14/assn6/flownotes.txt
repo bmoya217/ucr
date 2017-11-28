@@ -1,0 +1,24 @@
+every verticies have 4 status:
+    active
+    complete
+    discovered
+    undicovered
+    
+use a max priority queue - from stl of a class we contruct
+in order for the library to know how to sort a class, overload the "<" operator
+
+v1           v7
+                v6
+                         v5
+        v4
+v2             v3
+
+source
+v1 --------- v7-|
+|               v6--------|
+|             /          v5 sink
+|      v4----/          /
+v2------|------v3------/
+
+mark all of the verticies as undiscovered.
+start at source 

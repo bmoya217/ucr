@@ -1,0 +1,2 @@
+FATAL:  lock file "postmaster.pid" already exists
+HINT:  Is another postmaster (PID 25702) running in data directory "/extra/bmoya001/cs166/mydb/data"?

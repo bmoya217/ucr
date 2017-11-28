@@ -1,0 +1,1 @@
+/usr/bin/postgres "-c" "unix_socket_directories=/extra/bmoya001/cs166/sockets" "-h" "127.0.0.1"

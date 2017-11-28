@@ -1,0 +1,7 @@
+compile with make
+run as ./a.out ('-1' for small dictionary or '-2' for ispell) ('-chain' or 'probe') (name of your input file to spell check)
+ex:
+./a.out -2 -probe sample_input.txt
+
+misspelled words will be written to sample_input.out
+and statistics on the hash function will be stored in sample_input.stats

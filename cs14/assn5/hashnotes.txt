@@ -1,0 +1,51 @@
+____________
+|           |
+| hash box! |   => theyre arrays! :D
+|           |
+|           |
+|___________|
+
+
+chaining
+____________
+|           | -> list
+| hash box! | -> list
+|           | -> list
+|           | -> list
+|___________| -> list
+
+
+probing (linear-bad, quadratic-what were using, double hashing)
+    _______________
+1   | key k=       | //there is only one element allowed per key
+2   | hash(x)%size | // in linear just move it to the next available key index
+3   |              | // quatradic, move it to the first key^i position available
+4   |              | 
+5   |______________|
+
+assignment specific specs
+
+use 4th edition given code, but allign compiler with c++11
+    std=c++11 ???
+    
+3 command line arguments
+    1) -1 or -2
+    2) chain or probe(quadratic)
+    3) input file to spell check which you should "preprocess"
+        convert to lowercase
+        remove non-alphabet character
+    
+given a dictionary -> convert to hash table
+    code is given for this pretty much
+
+search has table for all of the words
+    if they cant be found in the dic hash table, theyre misspelled
+
+output files 
+    1) misspelled words
+    2) stats
+    for chaining
+        length of lists in table, and how many of them share that length
+    
+    for probing
+        number of collisions when inserting to table, and how many times that number of collisions happened

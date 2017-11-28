@@ -1,0 +1,38 @@
+edit this: data/project/java/src/Cafe.java
+to run: sh data/project/java/scripts/compile.sh
+to reset db: sh data/project/sql/scripts/create_db.sh
+
+To-Do List
+
+	Cafe.java:
+		- String readPhoneNumber() 
+		
+		- test case everything when done
+			- didnt have time to extensively test anything really
+		
+		- minimize the cols when using SELECT
+			- requires a lot of tedius changes to rshold.get(i).get(//fixme)
+
+	Triggers:
+		- UPDATE on ItemStatus
+			- set lastUpdate = now()
+		
+		- INSERT/DELETE on ItemStatus
+			- set_order_total()
+			
+		- UPDATE on Menu price
+			- set_order_total()
+		
+		- DELETE on Menu
+			- set_order_total()
+		
+		- UPDATE on Order paid
+			- set timeStampRecieved = now()
+				- might be wrong to do
+	
+	Protocols:
+		- set_order_total()
+			- sum(price) of all items in an order
+	
+	Indexes:
+		- just try to optimize whatever you can

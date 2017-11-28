@@ -1,0 +1,94 @@
+ERROR:  column "Hasn't started" does not exist at character 99
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', NOW(), "Hasn't started", 'Test Comment')
+ERROR:  syntax error at end of input at character 65
+STATEMENT:  INSERT INTO Orders VALUES ('1', 'Natalie_Braun', false, now(), 0
+ERROR:  syntax error at end of input at character 65
+STATEMENT:  INSERT INTO Orders VALUES ('1', 'Natalie_Braun', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87259', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87260', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87261', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87262', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87263', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87264', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87265', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87266', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87267', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87268', 'Admin', false, now(), 0
+ERROR:  syntax error at end of input at character 61
+STATEMENT:  INSERT INTO Orders VALUES ('87269', 'Admin', false, now(), 0
+LOG:  checkpoints are occurring too frequently (1 second apart)
+HINT:  Consider increasing the configuration parameter "checkpoint_segments".
+LOG:  checkpoints are occurring too frequently (2 seconds apart)
+HINT:  Consider increasing the configuration parameter "checkpoint_segments".
+ERROR:  column "name" of relation "menu" does not exist at character 19
+STATEMENT:  INSERT INTO Menu (name, type, price, description, url) VALUES ('Fake item name','Drinks','10.99999','Regular, Diet','')
+ERROR:  invalid input syntax for type real: "p" at character 34
+STATEMENT:  INSERT INTO Menu VALUES ('n','t','p','d','u')
+LOG:  received smart shutdown request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-12-01 07:02:46 PST
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections
+ERROR:  update or delete on table "menu" violates foreign key constraint "itemstatus_itemname_fkey" on table "itemstatus"
+DETAIL:  Key (itemname)=(Chicken Noodle Soup                               ) is still referenced from table "itemstatus".
+STATEMENT:  UPDATE Menu SET itemName = 'Chick In Nude Or Soop' WHERE itemName = 'Chicken Noodle Soup                               '
+ERROR:  column "commetns" does not exist at character 18
+STATEMENT:  SELECT itemName, commetns FROM ItemStatus WHERE orderid = '87259'
+ERROR:  duplicate key value violates unique constraint "users_pkey"
+DETAIL:  Key (login)=(c                                                 ) already exists.
+STATEMENT:  INSERT INTO USERS (phoneNum, login, password, favItems, type) VALUES ('c','c','c','','Customer')
+ERROR:  column "Hasn't started" does not exist at character 99
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', NOW(), "Hasn't started", 'americano')
+ERROR:  column "Hasn't started" does not exist at character 99
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', NOW(), "Hasn't started", 'cappuccino')
+ERROR:  column "Hasn't started" does not exist at character 99
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', NOW(), "Hasn't started", '')
+ERROR:  column "Hasn't started" does not exist at character 99
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Vegatable Noodle Soup                             ', NOW(), "Hasn't started", '')
+ERROR:  syntax error at or near "t" at character 105
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', NOW(), 'Hasn't started', '')
+ERROR:  syntax error at or near "t" at character 105
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Orange Juice                                      ', NOW(), 'Hasn't started', '')
+ERROR:  syntax error at or near "t" at character 105
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', NOW(), 'Hasn't started', '')
+ERROR:  syntax error at or near "t" at character 105
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', NOW(), 'Hasn't started', '')
+ERROR:  syntax error at or near "t" at character 105
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', NOW(), 'Hasn't started', '')
+ERROR:  syntax error at or near "t" at character 105
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', now(), 'Hasn't started', '')
+ERROR:  insert or update on table "itemstatus" violates foreign key constraint "itemstatus_itemname_fkey"
+DETAIL:  Key (itemname)=(Natalie_Braun                                     ) is not present in table "menu".
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Natalie_Braun', now(), 'Hasn''t started', '')
+ERROR:  insert or update on table "itemstatus" violates foreign key constraint "itemstatus_itemname_fkey"
+DETAIL:  Key (itemname)=(Natalie_Braun                                     ) is not present in table "menu".
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Natalie_Braun', now(), 'Hasn''t started', '')
+ERROR:  duplicate key value violates unique constraint "itemstatus_pkey"
+DETAIL:  Key (orderid, itemname)=(10, Coffee                                            ) already exists.
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Coffee                                            ', now(), 'Hasn''t started', 'test2')
+ERROR:  duplicate key value violates unique constraint "itemstatus_pkey"
+DETAIL:  Key (orderid, itemname)=(10, Hot and Sour Soup                                 ) already exists.
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Hot and Sour Soup                                 ', now(), 'Hasn''t started', 'test soup')
+LOG:  checkpoints are occurring too frequently (3 seconds apart)
+HINT:  Consider increasing the configuration parameter "checkpoint_segments".
+ERROR:  insert or update on table "itemstatus" violates foreign key constraint "itemstatus_itemname_fkey"
+DETAIL:  Key (itemname)=(Natalie_Braun                                     ) is not present in table "menu".
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Natalie_Braun', now(), 'Hasn''t started', '')
+ERROR:  insert or update on table "itemstatus" violates foreign key constraint "itemstatus_itemname_fkey"
+DETAIL:  Key (itemname)=(Natalie_Braun                                     ) is not present in table "menu".
+STATEMENT:  INSERT INTO ItemStatus VALUES ('10', 'Natalie_Braun', now(), 'Hasn''t started', '')
+ERROR:  update or delete on table "menu" violates foreign key constraint "itemstatus_itemname_fkey" on table "itemstatus"
+DETAIL:  Key (itemname)=(n                                                 ) is still referenced from table "itemstatus".
+STATEMENT:  DELETE FROM Menu WHERE itemName = 'n                                                 '

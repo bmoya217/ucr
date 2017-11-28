@@ -1,0 +1,8 @@
+LOG:  received smart shutdown request
+LOG:  autovacuum launcher shutting down
+LOG:  received SIGHUP, reloading configuration files
+LOG:  shutting down
+LOG:  database system is shut down
+LOG:  database system was shut down at 2016-12-05 04:53:02 PST
+LOG:  autovacuum launcher started
+LOG:  database system is ready to accept connections

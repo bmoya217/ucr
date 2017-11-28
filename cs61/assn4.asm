@@ -1,0 +1,134 @@
+;=================================================
+; Name: Moya, Branden
+; Username: bmoya001@ucr.edu
+; 
+; Assignment name: assn4
+; Lab section: 021
+; TA: Bryan Marsh
+;
+; I hereby certify that I have not recieved 
+; assistance on this assignment, or used code, from
+; ANY outside source other than the instuction team.
+;
+;=================================================
+
+.ORIG x3000
+
+;INSTRUCTIONS
+LD R3, ONE_CHECK
+START
+
+AND R1,R1,#0
+AND R5,R5,#0			;RESETS VALUES
+AND R6,R6,#0
+
+LEA R0, PROMPT			;OUPUTS PROMPT
+PUTS
+
+GET_INPUT				;GETS INPUT AND CONVERTS IT TO A SINGLE NUMBER IN R1
+	GETC
+	OUT
+	
+	BR TEST_INPUT
+	BACK 
+	
+	LD R4, NINE
+	ADD R6,R1,#0		;SETS R6 TO R0 FOR MULTIPLICATION
+	INNER
+		ADD R1,R1,R6
+		ADD R4,R4,#-1
+	BRp INNER
+	ADD R0,R0,R3
+	ADD R1,R1,R0		;ADDS THE NEXT NUMBER
+	
+	ADD R6,R6,#2
+BR GET_INPUT
+
+TEST_INPUT
+	LD R2, ENTER		;CHECKS FOR ENTER BAR
+	ADD R2,R2,R0
+	BRz LAST_CHECK
+	
+	ADD R2,R6,#-1
+	BRzp NUM_CHECK
+	
+	LD R2, MINUS		;CHECKS FOR '-'
+	ADD R2,R2,R0
+	BRz NEGATIVE
+	
+	LD R2, PLUS			;CHECKS FOR '+'
+	ADD R2,R2,R0
+	BRz POSITIVE
+	
+	NUM_CHECK
+	LD R2, ONE_CHECK	;CHECKS FOR < 1
+	ADD R2,R2,R0
+	BRn ERROR
+	
+	LD R2, NINE_CHECK	;CHECKS FOR > 9
+	ADD R2,R2,R0
+	BRp ERROR
+BR BACK
+
+NEGATIVE				;IF '-'
+	ADD R5,R5,#-1
+	ADD R6,R6,#1
+BR GET_INPUT
+
+POSITIVE				;IF '+'
+	ADD R5,R5,#1
+	ADD R6,R6,#1
+BR GET_INPUT
+
+NEGATE					;NEGATES R1 IF NEGATIVE SIGN WAS ENTERED
+NOT R1,R1
+ADD R1,R1,#1
+BR FINISH
+
+	LAST_CHECK
+		ADD R2,R6,#-1
+		BRn ERROR
+		
+		AND R5,R5,R5
+		BRnp LAST_LAST_CHECK
+		BR FINISH
+		
+		LAST_LAST_CHECK
+			ADD R2,R6,#-2
+		BRn ERROR
+		
+		AND R5,R5,R5
+		BRn NEGATE
+		BR FINISH
+
+	ERROR				;ERROR OUTPUT/REASK FOR NUMBERS
+		LD R2, ENTER
+		ADD R2,R2,R0
+		BRnp NEW_LINE 
+		BACK_TO_ERROR
+		LEA R0, WRONG
+		PUTS
+	BR START
+	
+	NEW_LINE
+		AND R0,R0,#0
+		ADD R0,R0,#10
+		OUT
+	BR BACK_TO_ERROR
+	
+FINISH
+
+HALT
+
+;LOCAL DATA
+PROMPT .STRINGZ "Input a positive or negative decimal number (max 5 digits), followed by ENTER\n"
+WRONG .STRINGZ "ERROR INVALID INPUT\n"
+PLUS .FILL #-43
+MINUS .FILL #-45
+ENTER .FILL #-10
+ONE_CHECK .FILL #-48	;TEST IF CHAR IS POSITIVE AFTER
+NINE_CHECK .FILL #-57	;TEST IF CHAR IS NEGATIVE AFTER
+ONE .FILL #1
+NINE .FILL #9
+
+.END

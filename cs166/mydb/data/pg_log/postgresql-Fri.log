@@ -1,0 +1,6 @@
+LOG:  checkpoints are occurring too frequently (1 second apart)
+HINT:  Consider increasing the configuration parameter "checkpoint_segments".
+LOG:  received smart shutdown request
+LOG:  autovacuum launcher shutting down
+LOG:  shutting down
+LOG:  database system is shut down
