@@ -1,0 +1,3589 @@
+Location: 2
+Pick up: 4
+		Location: 5
+		Pick up: 4
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 6
+Location: 3
+Pick up: 6
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 6
+Location: 3
+Pick up: 6
+		Drop off: 1
+		Location: 1
+		Pick up: 3
+Drop off: 1
+		Drop off: 2
+Location: 1
+Pick up: 0
+		Location: 2
+		Pick up: 0
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 0
+		Location: 4
+		Pick up: 0
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 6
+Location: 5
+Pick up: 6
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 2
+Location: 5
+Pick up: 2
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 7
+Location: 5
+Pick up: 7
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 1
+		Location: 1
+		Pick up: 1
+Drop off: 1
+Location: 1
+Pick up: 5
+		Drop off: 2
+Drop off: 1
+		Location: 2
+		Pick up: 0
+Location: 1
+Pick up: 0
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 6
+		Location: 2
+		Pick up: 6
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 6
+		Location: 2
+		Pick up: 6
+Drop off: 5
+Location: 5
+Pick up: 4
+		Drop off: 5
+		Location: 5
+		Pick up: 6
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 7
+		Location: 5
+		Pick up: 7
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 3
+		Location: 5
+		Pick up: 3
+Drop off: 1
+Location: 1
+Pick up: 5
+		Drop off: 1
+Drop off: 6
+		Location: 1
+		Pick up: 2
+Location: 6
+Pick up: 2
+		Drop off: 1
+		Location: 1
+		Pick up: 2
+Drop off: 1
+		Drop off: 4
+Location: 1
+Pick up: 1
+		Location: 4
+		Pick up: 1
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 4
+		Location: 6
+		Pick up: 4
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 3
+		Location: 2
+		Pick up: 3
+Drop off: 1
+Location: 1
+Pick up: 1
+		Drop off: 1
+		Location: 1
+		Pick up: 1
+Drop off: 0
+		Drop off: 4
+Location: 0
+Pick up: 5
+		Location: 4
+		Pick up: 5
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 3
+Location: 1
+Pick up: 3
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 1
+Location: 4
+Pick up: 1
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 4
+Location: 0
+Pick up: 4
+		Drop off: 3
+		Location: 3
+		Pick up: 6
+Drop off: 3
+		Drop off: 5
+Location: 3
+Pick up: 7
+		Location: 5
+		Pick up: 7
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 6
+Location: 3
+Pick up: 6
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 5
+Location: 5
+Pick up: 5
+		Drop off: 1
+		Location: 1
+		Pick up: 2
+Drop off: 1
+		Drop off: 3
+Location: 1
+Pick up: 5
+		Location: 3
+		Pick up: 5
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 3
+Location: 3
+Pick up: 3
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 4
+Location: 5
+Pick up: 4
+		Drop off: 1
+		Location: 1
+		Pick up: 3
+Drop off: 1
+Location: 1
+Pick up: 3
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 1
+Location: 0
+Pick up: 1
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 5
+Location: 3
+Pick up: 5
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 6
+Location: 6
+Pick up: 6
+		Drop off: 0
+		Location: 0
+		Pick up: 7
+Drop off: 0
+		Drop off: 5
+Location: 0
+Pick up: 4
+		Location: 5
+		Pick up: 4
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 1
+Location: 1
+Pick up: 1
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 2
+Location: 2
+Pick up: 2
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 0
+Location: 0
+Pick up: 0
+		Drop off: 6
+		Location: 6
+		Pick up: 5
+Drop off: 6
+		Drop off: 1
+Location: 6
+Pick up: 7
+		Location: 1
+		Pick up: 7
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 3
+		Location: 6
+		Pick up: 3
+Drop off: 4
+Location: 4
+Pick up: 7
+		Drop off: 4
+Drop off: 0
+		Location: 4
+		Pick up: 0
+Location: 0
+Pick up: 0
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 3
+		Location: 4
+		Pick up: 3
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 6
+		Location: 5
+		Pick up: 6
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 3
+		Location: 5
+		Pick up: 3
+Drop off: 4
+Location: 4
+Pick up: 3
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 3
+Location: 4
+Pick up: 3
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 2
+Location: 0
+Pick up: 2
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 2
+Location: 4
+Pick up: 2
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 2
+Location: 1
+Pick up: 2
+		Drop off: 1
+		Location: 1
+		Pick up: 4
+Drop off: 1
+Location: 1
+Pick up: 4
+		Drop off: 0
+Drop off: 5
+		Location: 0
+		Pick up: 6
+Location: 5
+Pick up: 6
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 3
+		Location: 1
+		Pick up: 3
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 5
+		Location: 1
+		Pick up: 5
+Drop off: 3
+Location: 3
+Pick up: 1
+		Drop off: 3
+		Location: 3
+		Pick up: 1
+Drop off: 4
+		Drop off: 2
+Location: 4
+Pick up: 0
+		Location: 2
+		Pick up: 0
+		Drop off: 3
+		Location: 3
+		Pick up: 5
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 6
+		Location: 3
+		Pick up: 6
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 2
+		Location: 1
+		Pick up: 2
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 5
+		Location: 5
+		Pick up: 5
+Drop off: 4
+Location: 4
+Pick up: 6
+		Drop off: 4
+Drop off: 3
+		Location: 4
+		Pick up: 6
+Location: 3
+Pick up: 6
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 4
+Location: 5
+Pick up: 4
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 1
+Location: 1
+Pick up: 1
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 4
+Location: 4
+Pick up: 4
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 7
+Location: 3
+Pick up: 7
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 4
+Location: 5
+Pick up: 4
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 0
+Location: 3
+Pick up: 0
+		Drop off: 5
+		Location: 5
+		Pick up: 2
+Drop off: 5
+Location: 5
+Pick up: 3
+		Drop off: 4
+		Location: 4
+		Pick up: 3
+Drop off: 4
+Location: 4
+Pick up: 1
+		Drop off: 4
+		Location: 4
+		Pick up: 5
+Drop off: 2
+		Drop off: 1
+Location: 2
+Pick up: 3
+		Location: 1
+		Pick up: 3
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 7
+		Location: 6
+		Pick up: 7
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 2
+		Location: 0
+		Pick up: 2
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 3
+		Location: 5
+		Pick up: 3
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 0
+		Location: 6
+		Pick up: 0
+Drop off: 4
+Location: 4
+Pick up: 0
+		Drop off: 4
+		Location: 4
+		Pick up: 7
+Drop off: 3
+		Drop off: 2
+Location: 3
+Pick up: 4
+		Location: 2
+		Pick up: 4
+Drop off: 0
+Location: 0
+Pick up: 1
+		Drop off: 0
+Drop off: 5
+		Location: 0
+		Pick up: 1
+Location: 5
+Pick up: 1
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 7
+Location: 3
+Pick up: 7
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 3
+Location: 5
+Pick up: 3
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 4
+Location: 1
+Pick up: 4
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 4
+Location: 1
+Pick up: 4
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 4
+Location: 5
+Pick up: 4
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 5
+Location: 5
+Pick up: 5
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 1
+Location: 4
+Pick up: 1
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 6
+Location: 6
+Pick up: 6
+		Drop off: 0
+		Location: 0
+		Pick up: 3
+Drop off: 0
+		Drop off: 4
+Location: 0
+Pick up: 2
+		Location: 4
+		Pick up: 2
+Drop off: 5
+Location: 5
+Pick up: 0
+		Drop off: 5
+		Location: 5
+		Pick up: 4
+Drop off: 3
+Location: 3
+Pick up: 4
+		Drop off: 3
+		Location: 3
+		Pick up: 1
+Drop off: 3
+		Drop off: 6
+Location: 3
+Pick up: 3
+		Location: 6
+		Pick up: 3
+Drop off: 1
+Location: 1
+Pick up: 5
+		Drop off: 1
+		Location: 1
+		Pick up: 5
+Drop off: 3
+		Drop off: 1
+Location: 3
+Pick up: 1
+		Location: 1
+		Pick up: 1
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 0
+Location: 3
+Pick up: 0
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 3
+Location: 5
+Pick up: 3
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 3
+Location: 5
+Pick up: 3
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 2
+Location: 5
+Pick up: 2
+		Drop off: 0
+		Location: 0
+		Pick up: 4
+Drop off: 0
+		Drop off: 2
+Location: 0
+Pick up: 6
+		Location: 2
+		Pick up: 6
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 1
+Location: 1
+Pick up: 1
+		Drop off: 5
+		Location: 5
+		Pick up: 4
+Drop off: 5
+Location: 5
+Pick up: 6
+		Drop off: 0
+Drop off: 2
+		Location: 0
+		Pick up: 4
+Location: 2
+Pick up: 4
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 1
+		Location: 1
+		Pick up: 1
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 6
+		Location: 5
+		Pick up: 6
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 6
+		Location: 3
+		Pick up: 6
+Drop off: 2
+Location: 2
+Pick up: 0
+		Drop off: 2
+Drop off: 6
+		Location: 2
+		Pick up: 7
+Location: 6
+Pick up: 7
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 7
+		Location: 5
+		Pick up: 7
+Drop off: 1
+Location: 1
+Pick up: 6
+		Drop off: 1
+		Location: 1
+		Pick up: 6
+Drop off: 2
+		Drop off: 4
+Location: 2
+Pick up: 7
+		Location: 4
+		Pick up: 7
+		Drop off: 0
+		Location: 0
+		Pick up: 4
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 7
+		Location: 0
+		Pick up: 7
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 4
+		Location: 6
+		Pick up: 4
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 4
+		Location: 6
+		Pick up: 4
+Drop off: 0
+Location: 0
+Pick up: 3
+		Drop off: 0
+Drop off: 6
+		Location: 0
+		Pick up: 4
+Location: 6
+Pick up: 4
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 3
+		Location: 3
+		Pick up: 3
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 4
+		Location: 1
+		Pick up: 4
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 6
+		Location: 1
+		Pick up: 6
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 5
+		Location: 1
+		Pick up: 5
+Drop off: 3
+Location: 3
+Pick up: 0
+		Drop off: 3
+Drop off: 2
+		Location: 3
+		Pick up: 0
+Location: 2
+Pick up: 0
+Drop off: 5
+Location: 5
+Pick up: 2
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 7
+Location: 5
+Pick up: 7
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 5
+Location: 6
+Pick up: 5
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 4
+Location: 6
+Pick up: 4
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 0
+Location: 6
+Pick up: 0
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 5
+		Location: 6
+		Pick up: 5
+Drop off: 4
+Location: 4
+Pick up: 1
+		Drop off: 4
+		Location: 4
+		Pick up: 2
+Drop off: 4
+Location: 4
+Pick up: 3
+		Drop off: 4
+Drop off: 6
+		Location: 4
+		Pick up: 3
+Location: 6
+Pick up: 3
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 2
+Location: 2
+Pick up: 2
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 4
+Location: 5
+Pick up: 4
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 1
+Location: 2
+Pick up: 1
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 0
+Location: 3
+Pick up: 0
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 0
+Location: 3
+Pick up: 0
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 1
+Location: 6
+Pick up: 1
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 5
+Location: 0
+Pick up: 5
+		Drop off: 1
+		Location: 1
+		Pick up: 0
+Drop off: 1
+		Drop off: 5
+Location: 1
+Pick up: 5
+		Location: 5
+		Pick up: 5
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 6
+Location: 3
+Pick up: 6
+		Drop off: 0
+		Location: 0
+		Pick up: 2
+Drop off: 0
+Location: 0
+Pick up: 3
+		Drop off: 0
+		Location: 0
+		Pick up: 3
+Drop off: 1
+		Drop off: 6
+Location: 1
+Pick up: 1
+		Location: 6
+		Pick up: 1
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 7
+		Location: 4
+		Pick up: 7
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 2
+		Location: 1
+		Pick up: 2
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 4
+		Location: 1
+		Pick up: 4
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 3
+Location: 1
+Pick up: 3
+		Drop off: 2
+		Location: 2
+		Pick up: 7
+Drop off: 2
+		Drop off: 6
+Location: 2
+Pick up: 5
+		Location: 6
+		Pick up: 5
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 1
+Location: 4
+Pick up: 1
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 2
+Location: 4
+Pick up: 2
+		Drop off: 0
+		Location: 0
+		Pick up: 1
+Drop off: 0
+Location: 0
+Pick up: 6
+		Drop off: 2
+		Location: 2
+		Pick up: 6
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 4
+		Location: 1
+		Pick up: 4
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 6
+		Location: 1
+		Pick up: 6
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 3
+		Location: 3
+		Pick up: 3
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 5
+		Location: 0
+		Pick up: 5
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 1
+		Location: 6
+		Pick up: 1
+Drop off: 4
+Location: 4
+Pick up: 0
+		Drop off: 4
+Drop off: 2
+		Location: 4
+		Pick up: 5
+Location: 2
+Pick up: 5
+		Drop off: 2
+		Location: 2
+		Pick up: 3
+Drop off: 2
+		Drop off: 4
+Location: 2
+Pick up: 3
+		Location: 4
+		Pick up: 3
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 0
+		Location: 2
+		Pick up: 0
+Drop off: 3
+Location: 3
+Pick up: 2
+		Drop off: 3
+Drop off: 0
+		Location: 3
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 6
+		Location: 6
+		Pick up: 4
+Drop off: 6
+		Drop off: 2
+Location: 6
+Pick up: 0
+		Location: 2
+		Pick up: 0
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 7
+Location: 1
+Pick up: 7
+		Drop off: 5
+		Location: 5
+		Pick up: 6
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 5
+		Location: 5
+		Pick up: 5
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 4
+		Location: 2
+		Pick up: 4
+Drop off: 3
+Location: 3
+Pick up: 3
+		Drop off: 3
+Drop off: 0
+		Location: 3
+		Pick up: 6
+Location: 0
+Pick up: 6
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 6
+Location: 3
+Pick up: 6
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 4
+Location: 4
+Pick up: 4
+		Drop off: 5
+		Location: 5
+		Pick up: 2
+Drop off: 5
+		Drop off: 6
+Location: 5
+Pick up: 0
+		Location: 6
+		Pick up: 0
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 3
+		Location: 6
+		Pick up: 3
+Drop off: 5
+Location: 5
+Pick up: 2
+		Drop off: 5
+		Location: 5
+		Pick up: 7
+Drop off: 4
+		Drop off: 2
+Location: 4
+Pick up: 6
+		Location: 2
+		Pick up: 6
+Drop off: 2
+Location: 2
+Pick up: 1
+		Drop off: 2
+Drop off: 6
+		Location: 2
+		Pick up: 0
+Location: 6
+Pick up: 0
+		Drop off: 4
+		Location: 4
+		Pick up: 7
+Drop off: 4
+		Drop off: 0
+Location: 4
+Pick up: 5
+		Location: 0
+		Pick up: 5
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 7
+		Location: 1
+		Pick up: 7
+Drop off: 0
+Location: 0
+Pick up: 6
+		Drop off: 0
+Drop off: 4
+		Location: 0
+		Pick up: 2
+Location: 4
+Pick up: 2
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 6
+Location: 5
+Pick up: 6
+		Drop off: 2
+		Location: 2
+		Pick up: 5
+Drop off: 2
+Location: 2
+Pick up: 5
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 1
+Location: 0
+Pick up: 1
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 3
+Location: 4
+Pick up: 3
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 7
+Location: 4
+Pick up: 7
+		Drop off: 2
+		Location: 2
+		Pick up: 5
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 5
+		Location: 2
+		Pick up: 5
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 4
+		Location: 3
+		Pick up: 4
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 6
+		Location: 5
+		Pick up: 6
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 3
+		Location: 1
+		Pick up: 3
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 6
+		Location: 5
+		Pick up: 6
+Drop off: 1
+Location: 1
+Pick up: 5
+		Drop off: 1
+		Location: 1
+		Pick up: 5
+Drop off: 2
+Location: 2
+Pick up: 3
+		Drop off: 2
+Drop off: 0
+		Location: 2
+		Pick up: 5
+Location: 0
+Pick up: 5
+		Drop off: 6
+		Location: 6
+		Pick up: 4
+Drop off: 6
+Location: 6
+Pick up: 3
+		Drop off: 2
+Drop off: 4
+		Location: 2
+		Pick up: 3
+Location: 4
+Pick up: 3
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 4
+Location: 1
+Pick up: 4
+		Drop off: 3
+		Location: 3
+		Pick up: 3
+Drop off: 3
+		Drop off: 1
+Location: 3
+Pick up: 2
+		Location: 1
+		Pick up: 2
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 5
+		Location: 4
+		Pick up: 5
+Drop off: 2
+Location: 2
+Pick up: 7
+		Drop off: 2
+		Location: 2
+		Pick up: 6
+Drop off: 0
+		Drop off: 3
+Location: 0
+Pick up: 5
+		Location: 3
+		Pick up: 5
+		Drop off: 0
+		Location: 0
+		Pick up: 6
+Drop off: 0
+Location: 0
+Pick up: 6
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 6
+Location: 0
+Pick up: 6
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 5
+Location: 2
+Pick up: 5
+		Drop off: 1
+		Location: 1
+		Pick up: 5
+Drop off: 1
+		Drop off: 6
+Location: 1
+Pick up: 3
+		Location: 6
+		Pick up: 3
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 4
+		Location: 5
+		Pick up: 4
+Drop off: 0
+Location: 0
+Pick up: 7
+		Drop off: 0
+		Location: 0
+		Pick up: 7
+Drop off: 4
+Location: 4
+Pick up: 5
+		Drop off: 4
+Drop off: 0
+		Location: 4
+		Pick up: 7
+Location: 0
+Pick up: 7
+		Drop off: 2
+		Location: 2
+		Pick up: 3
+Drop off: 2
+Location: 2
+Pick up: 5
+		Drop off: 1
+Drop off: 4
+		Location: 1
+		Pick up: 2
+Location: 4
+Pick up: 2
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 7
+Location: 4
+Pick up: 7
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 2
+Location: 5
+Pick up: 2
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 3
+Location: 1
+Pick up: 3
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 1
+Location: 5
+Pick up: 1
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 2
+Location: 4
+Pick up: 2
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 1
+Location: 5
+Pick up: 1
+		Drop off: 3
+		Location: 3
+		Pick up: 3
+Drop off: 3
+		Drop off: 0
+Location: 3
+Pick up: 5
+		Location: 0
+		Pick up: 5
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 7
+		Location: 4
+		Pick up: 7
+Drop off: 5
+Location: 5
+Pick up: 5
+		Drop off: 5
+		Location: 5
+		Pick up: 6
+Drop off: 4
+Location: 4
+Pick up: 6
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 3
+Location: 4
+Pick up: 3
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 4
+Location: 5
+Pick up: 4
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 4
+Location: 1
+Pick up: 4
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 1
+Location: 6
+Pick up: 1
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 1
+Location: 2
+Pick up: 1
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 1
+Location: 6
+Pick up: 1
+		Drop off: 0
+		Location: 0
+		Pick up: 1
+Drop off: 0
+		Drop off: 2
+Location: 0
+Pick up: 7
+		Location: 2
+		Pick up: 7
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 3
+Location: 6
+Pick up: 3
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 6
+Location: 1
+Pick up: 6
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 1
+Location: 2
+Pick up: 1
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 5
+Location: 0
+Pick up: 5
+		Drop off: 6
+		Location: 6
+		Pick up: 1
+Drop off: 6
+		Drop off: 2
+Location: 6
+Pick up: 1
+		Location: 2
+		Pick up: 1
+		Drop off: 6
+		Location: 6
+		Pick up: 6
+Drop off: 6
+		Drop off: 5
+Location: 6
+Pick up: 6
+		Location: 5
+		Pick up: 6
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 0
+		Location: 1
+		Pick up: 0
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 0
+		Location: 1
+		Pick up: 0
+Drop off: 3
+Location: 3
+Pick up: 4
+		Drop off: 3
+		Location: 3
+		Pick up: 4
+Drop off: 1
+		Drop off: 6
+Location: 1
+Pick up: 5
+		Location: 6
+		Pick up: 5
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 3
+Location: 2
+Pick up: 3
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 3
+Location: 6
+Pick up: 3
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 4
+Location: 5
+Pick up: 4
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 5
+Location: 0
+Pick up: 5
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 5
+Location: 1
+Pick up: 5
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 5
+Location: 0
+Pick up: 5
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 4
+Location: 1
+Pick up: 4
+		Drop off: 0
+		Location: 0
+		Pick up: 3
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 6
+		Location: 0
+		Pick up: 6
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 7
+		Location: 3
+		Pick up: 7
+Drop off: 2
+Location: 2
+ERROR: PICKUP NOT FOUND
+Pick up: -1
+		Drop off: 2
+		Location: 2
+		Pick up: 7
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 2
+		Location: 0
+		Pick up: 2
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 3
+		Location: 0
+		Pick up: 3
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 4
+		Location: 4
+		Pick up: 4
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 3
+		Location: 1
+		Pick up: 3
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 3
+		Location: 4
+		Pick up: 3
+Drop off: 4
+Location: 4
+Pick up: 7
+		Drop off: 4
+Drop off: 5
+		Location: 4
+		Pick up: 2
+Location: 5
+Pick up: 2
+		Drop off: 6
+		Location: 6
+		Pick up: 7
+Drop off: 6
+		Drop off: 5
+Location: 6
+Pick up: 6
+		Location: 5
+		Pick up: 6
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 2
+		Location: 4
+		Pick up: 2
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 4
+		Location: 4
+		Pick up: 4
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 6
+		Location: 5
+		Pick up: 6
+Drop off: 5
+Location: 5
+Pick up: 4
+		Drop off: 5
+Drop off: 0
+		Location: 5
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 6
+Location: 2
+Pick up: 6
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 3
+Location: 3
+Pick up: 3
+		Drop off: 2
+		Location: 2
+		Pick up: 7
+Drop off: 2
+Location: 2
+Pick up: 7
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 4
+Location: 4
+Pick up: 4
+		Drop off: 1
+		Location: 1
+		Pick up: 3
+Drop off: 1
+Location: 1
+Pick up: 3
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 4
+Location: 2
+Pick up: 4
+		Drop off: 1
+		Location: 1
+		Pick up: 4
+Drop off: 1
+		Drop off: 2
+Location: 1
+Pick up: 4
+		Location: 2
+		Pick up: 4
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 7
+Location: 0
+Pick up: 7
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 1
+Location: 1
+Pick up: 1
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 0
+Location: 0
+Pick up: 0
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 5
+		Location: 3
+		Pick up: 5
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 0
+		Location: 4
+		Pick up: 0
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 1
+		Location: 1
+		Pick up: 1
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 7
+		Location: 6
+		Pick up: 7
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 4
+		Location: 3
+		Pick up: 4
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 3
+		Location: 2
+		Pick up: 3
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 4
+		Location: 4
+		Pick up: 4
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 2
+		Location: 1
+		Pick up: 2
+Drop off: 5
+Location: 5
+Pick up: 3
+		Drop off: 5
+Drop off: 0
+		Location: 5
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 5
+		Location: 5
+		Pick up: 1
+Drop off: 5
+		Drop off: 3
+Location: 5
+Pick up: 7
+		Location: 3
+		Pick up: 7
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 3
+		Location: 3
+		Pick up: 3
+Drop off: 6
+Location: 6
+Pick up: 2
+		Drop off: 6
+Drop off: 1
+		Location: 6
+		Pick up: 7
+Location: 1
+Pick up: 7
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 2
+Location: 3
+Pick up: 2
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 2
+Location: 6
+Pick up: 2
+		Drop off: 5
+		Location: 5
+		Pick up: 1
+Drop off: 5
+		Drop off: 0
+Location: 5
+Pick up: 0
+		Location: 0
+		Pick up: 0
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 6
+Location: 5
+Pick up: 6
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 0
+Location: 2
+Pick up: 0
+		Drop off: 5
+		Location: 5
+		Pick up: 3
+Drop off: 5
+		Drop off: 6
+Location: 5
+Pick up: 2
+		Location: 6
+		Pick up: 2
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 0
+Location: 1
+Pick up: 0
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 4
+Location: 2
+Pick up: 4
+		Drop off: 1
+		Location: 1
+		Pick up: 6
+Drop off: 1
+		Drop off: 0
+Location: 1
+Pick up: 6
+		Location: 0
+		Pick up: 6
+Drop off: 0
+Location: 0
+Pick up: 1
+		Drop off: 0
+		Location: 0
+		Pick up: 7
+Drop off: 5
+Location: 5
+Pick up: 7
+		Drop off: 3
+		Location: 3
+		Pick up: 4
+Drop off: 3
+		Drop off: 6
+Location: 3
+Pick up: 5
+		Location: 6
+		Pick up: 5
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 3
+Location: 3
+Pick up: 3
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 3
+Location: 4
+Pick up: 3
+		Drop off: 2
+		Location: 2
+		Pick up: 7
+Drop off: 2
+Location: 2
+Pick up: 7
+		Drop off: 4
+		Location: 4
+		Pick up: 7
+Drop off: 5
+		Drop off: 4
+Location: 5
+Pick up: 2
+		Location: 4
+		Pick up: 2
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 2
+Location: 1
+Pick up: 2
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 6
+Location: 4
+Pick up: 6
+		Drop off: 3
+		Location: 3
+		Pick up: 4
+Drop off: 3
+		Drop off: 1
+Location: 3
+Pick up: 7
+		Location: 1
+		Pick up: 7
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 0
+		Location: 0
+		Pick up: 0
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 0
+		Location: 1
+		Pick up: 0
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 4
+Location: 2
+Pick up: 4
+		Drop off: 1
+		Location: 1
+		Pick up: 2
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 6
+		Location: 1
+		Pick up: 6
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 1
+		Location: 3
+		Pick up: 1
+Drop off: 5
+Location: 5
+Pick up: 7
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 4
+Location: 5
+Pick up: 4
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 5
+Location: 0
+Pick up: 5
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 6
+Location: 1
+Pick up: 6
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 5
+Location: 3
+Pick up: 5
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 0
+Location: 3
+Pick up: 0
+		Drop off: 4
+		Location: 4
+		Pick up: 5
+Drop off: 4
+		Drop off: 6
+Location: 4
+Pick up: 7
+		Location: 6
+		Pick up: 7
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 7
+Location: 2
+Pick up: 7
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 2
+Location: 6
+Pick up: 2
+		Drop off: 0
+		Location: 0
+ERROR: PICKUP NOT FOUND
+		Pick up: -1
+Drop off: 0
+Location: 0
+Pick up: 4
+		Drop off: -1
+Drop off: 5
+		Location: -1
+		Pick up: 3
+Location: 5
+Pick up: 3
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 1
+		Location: 4
+		Pick up: 1
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 1
+		Location: 5
+		Pick up: 1
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 0
+		Location: 5
+		Pick up: 0
+Drop off: 6
+Location: 6
+Pick up: 4
+		Drop off: 6
+		Location: 6
+		Pick up: 6
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 0
+		Location: 2
+		Pick up: 0
+Drop off: 6
+Location: 6
+Pick up: 7
+		Drop off: 6
+Drop off: 3
+		Location: 6
+		Pick up: 7
+Location: 3
+Pick up: 7
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 2
+Location: 2
+Pick up: 2
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 5
+		Location: 4
+		Pick up: 5
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 0
+		Location: 2
+		Pick up: 0
+Drop off: 6
+Location: 6
+Pick up: 0
+		Drop off: 6
+		Location: 6
+		Pick up: 6
+Drop off: 5
+Location: 5
+Pick up: 6
+		Drop off: 5
+		Location: 5
+		Pick up: 3
+Drop off: 5
+		Drop off: 0
+Location: 5
+Pick up: 5
+		Location: 0
+		Pick up: 5
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 1
+		Location: 3
+		Pick up: 1
+Drop off: 3
+Location: 3
+Pick up: 2
+		Drop off: 3
+Drop off: 5
+		Location: 3
+		Pick up: 1
+Location: 5
+Pick up: 1
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 3
+Location: 4
+Pick up: 3
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 5
+Location: 0
+Pick up: 5
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 0
+Location: 3
+Pick up: 0
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 5
+Location: 5
+Pick up: 5
+		Drop off: 2
+		Location: 2
+		Pick up: 1
+Drop off: 2
+		Drop off: 6
+Location: 2
+Pick up: 1
+		Location: 6
+		Pick up: 1
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 1
+		Location: 2
+		Pick up: 1
+Drop off: 0
+Location: 0
+Pick up: 5
+		Drop off: 0
+Drop off: 6
+		Location: 0
+		Pick up: 7
+Location: 6
+Pick up: 7
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 6
+		Location: 4
+		Pick up: 6
+Drop off: 5
+Location: 5
+Pick up: 5
+		Drop off: 5
+Drop off: 4
+		Location: 5
+		Pick up: 3
+Location: 4
+Pick up: 3
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 6
+		Location: 0
+		Pick up: 6
+Drop off: 2
+Location: 2
+Pick up: 4
+		Drop off: 2
+		Location: 2
+		Pick up: 4
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 4
+		Location: 3
+		Pick up: 4
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 7
+		Location: 6
+		Pick up: 7
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 3
+		Location: 3
+		Pick up: 3
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 5
+		Location: 4
+		Pick up: 5
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 2
+		Location: 3
+		Pick up: 2
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 3
+		Location: 1
+		Pick up: 3
+Drop off: 1
+Location: 1
+Pick up: 6
+		Drop off: 1
+		Location: 1
+		Pick up: 6
+Drop off: 3
+Location: 3
+Pick up: 1
+		Drop off: 3
+		Location: 3
+		Pick up: 5
+Drop off: 6
+Location: 6
+Pick up: 5
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 3
+Location: 6
+Pick up: 3
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 5
+Location: 0
+Pick up: 5
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 3
+Location: 2
+Pick up: 3
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 4
+Location: 1
+Pick up: 4
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 1
+Location: 6
+Pick up: 1
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 1
+Location: 0
+Pick up: 1
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 7
+Location: 5
+Pick up: 7
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 1
+Location: 6
+Pick up: 1
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 7
+Location: 2
+Pick up: 7
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 4
+Location: 3
+Pick up: 4
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 6
+Location: 6
+Pick up: 6
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 3
+Location: 1
+Pick up: 3
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 5
+Location: 0
+Pick up: 5
+		Drop off: 2
+		Location: 2
+		Pick up: 6
+Drop off: 2
+Location: 2
+Pick up: 0
+		Drop off: 3
+Drop off: 5
+		Location: 3
+		Pick up: 7
+Location: 5
+Pick up: 7
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 0
+		Location: 2
+		Pick up: 0
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 2
+		Location: 1
+		Pick up: 2
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 2
+		Location: 3
+		Pick up: 2
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 3
+		Location: 4
+		Pick up: 3
+Drop off: 6
+Location: 6
+Pick up: 6
+		Drop off: 6
+		Location: 6
+		Pick up: 1
+Drop off: 4
+		Drop off: 6
+Location: 4
+Pick up: 0
+		Location: 6
+		Pick up: 0
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 5
+		Location: 4
+		Pick up: 5
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 4
+		Location: 4
+		Pick up: 4
+		Drop off: 2
+		Location: 2
+		Pick up: 0
+Drop off: 2
+		Drop off: 5
+Location: 2
+Pick up: 5
+		Location: 5
+		Pick up: 5
+		Drop off: 4
+		Location: 4
+		Pick up: 2
+Drop off: 4
+		Drop off: 0
+Location: 4
+Pick up: 1
+		Location: 0
+		Pick up: 1
+		Drop off: 6
+		Location: 6
+		Pick up: 4
+Drop off: 6
+Location: 6
+Pick up: 4
+		Drop off: 3
+		Location: 3
+		Pick up: 5
+Drop off: 3
+		Drop off: 0
+Location: 3
+Pick up: 4
+		Location: 0
+		Pick up: 4
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 7
+		Location: 3
+		Pick up: 7
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 3
+		Location: 2
+		Pick up: 3
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 2
+		Location: 6
+		Pick up: 2
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 1
+		Location: 0
+		Pick up: 1
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 1
+		Location: 0
+		Pick up: 1
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 1
+		Location: 6
+		Pick up: 1
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 5
+		Location: 2
+		Pick up: 5
+Drop off: 3
+Location: 3
+Pick up: 4
+		Drop off: 3
+Drop off: 1
+		Location: 3
+		Pick up: 0
+Location: 1
+Pick up: 0
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 3
+		Location: 5
+		Pick up: 3
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 2
+		Location: 1
+		Pick up: 2
+Drop off: 1
+Location: 1
+Pick up: 5
+		Drop off: 1
+Drop off: 3
+		Location: 1
+		Pick up: 1
+Location: 3
+Pick up: 1
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 0
+Location: 4
+Pick up: 0
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 3
+Location: 4
+Pick up: 3
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 4
+Location: 6
+Pick up: 4
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 1
+Location: 0
+Pick up: 1
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 3
+Location: 5
+Pick up: 3
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 1
+Location: 6
+Pick up: 1
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 0
+Location: 2
+Pick up: 0
+		Drop off: 5
+		Location: 5
+		Pick up: 3
+Drop off: 5
+		Drop off: 0
+Location: 5
+Pick up: 0
+		Location: 0
+		Pick up: 0
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 6
+Location: 2
+Pick up: 6
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 1
+Location: 0
+Pick up: 1
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 3
+Location: 6
+Pick up: 3
+		Drop off: 4
+		Location: 4
+		Pick up: 5
+Drop off: 4
+Location: 4
+Pick up: 7
+		Drop off: 1
+		Location: 1
+		Pick up: 7
+Drop off: 4
+Location: 4
+Pick up: 4
+		Drop off: 4
+		Location: 4
+		Pick up: 4
+Drop off: 2
+		Drop off: 5
+Location: 2
+Pick up: 3
+		Location: 5
+		Pick up: 3
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 2
+		Location: 0
+		Pick up: 2
+		Drop off: 3
+		Location: 3
+		Pick up: 1
+Drop off: 3
+		Drop off: 5
+Location: 3
+Pick up: 4
+		Location: 5
+		Pick up: 4
+Drop off: 5
+Location: 5
+Pick up: 1
+		Drop off: 5
+		Location: 5
+		Pick up: 3
+Drop off: 0
+		Drop off: 1
+Location: 0
+Pick up: 0
+		Location: 1
+		Pick up: 0
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 0
+		Location: 2
+		Pick up: 0
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 5
+		Location: 6
+		Pick up: 5
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 0
+		Location: 4
+		Pick up: 0
+Drop off: 1
+Location: 1
+Pick up: 1
+		Drop off: 1
+Drop off: 0
+		Location: 1
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 2
+		Location: 2
+		Pick up: 5
+Drop off: 2
+Location: 2
+Pick up: 7
+		Drop off: 2
+Drop off: 5
+		Location: 2
+		Pick up: 6
+Location: 5
+Pick up: 6
+Drop off: 4
+Location: 4
+Pick up: 2
+		Drop off: 4
+Drop off: 0
+		Location: 4
+		Pick up: 1
+Location: 0
+Pick up: 1
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 4
+		Location: 4
+		Pick up: 4
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 3
+		Location: 5
+		Pick up: 3
+Drop off: 0
+Location: 0
+Pick up: 5
+		Drop off: 0
+Drop off: 3
+		Location: 0
+		Pick up: 5
+Location: 3
+Pick up: 5
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 2
+		Location: 1
+		Pick up: 2
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 4
+		Location: 4
+		Pick up: 4
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 4
+		Location: 2
+		Pick up: 4
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 4
+		Location: 0
+		Pick up: 4
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 1
+		Location: 6
+		Pick up: 1
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 1
+		Location: 0
+		Pick up: 1
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 2
+Location: 4
+Pick up: 2
+		Drop off: 6
+		Location: 6
+		Pick up: 6
+Drop off: 6
+		Drop off: 5
+Location: 6
+Pick up: 7
+		Location: 5
+		Pick up: 7
+Drop off: 6
+Location: 6
+Pick up: 6
+		Drop off: 6
+Drop off: 3
+		Location: 6
+		Pick up: 5
+Location: 3
+Pick up: 5
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 6
+		Location: 1
+		Pick up: 6
+Drop off: 0
+Location: 0
+Pick up: 1
+		Drop off: 0
+Drop off: 4
+		Location: 0
+		Pick up: 5
+Location: 4
+Pick up: 5
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 2
+		Location: 1
+		Pick up: 2
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 1
+		Location: 1
+		Pick up: 1
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 2
+		Location: 3
+		Pick up: 2
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 7
+		Location: 4
+		Pick up: 7
+Drop off: 0
+Location: 0
+Pick up: 1
+		Drop off: 0
+		Location: 0
+		Pick up: 3
+Drop off: 3
+		Drop off: 6
+Location: 3
+Pick up: 3
+		Location: 6
+		Pick up: 3
+Drop off: 2
+		Drop off: 2
+Location: 2
+Pick up: 7
+		Location: 2
+		Pick up: 7
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 0
+		Location: 4
+		Pick up: 0
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 3
+		Location: 5
+		Pick up: 3
+Drop off: 4
+Location: 4
+Pick up: 5
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 1
+Location: 4
+Pick up: 1
+		Drop off: 3
+		Location: 3
+		Pick up: 5
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 5
+		Location: 3
+		Pick up: 5
+Drop off: 1
+Location: 1
+Pick up: 4
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 1
+Location: 1
+Pick up: 1
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 7
+Location: 2
+Pick up: 7
+		Drop off: 5
+		Location: 5
+		Pick up: 4
+Drop off: 5
+		Drop off: 2
+Location: 5
+Pick up: 6
+		Location: 2
+		Pick up: 6
+Drop off: 2
+Location: 2
+Pick up: 2
+		Drop off: 2
+Drop off: 3
+		Location: 2
+		Pick up: 3
+Location: 3
+Pick up: 3
+Drop off: 4
+Location: 4
+Pick up: 2
+		Drop off: 4
+Drop off: 0
+		Location: 4
+		Pick up: 1
+Location: 0
+Pick up: 1
+Drop off: 6
+Location: 6
+ERROR: PICKUP NOT FOUND
+Pick up: -1
+		Drop off: 6
+		Location: 6
+		Pick up: 1
+Drop off: -1
+		Drop off: 3
+Location: -1
+Pick up: 5
+		Location: 3
+		Pick up: 5
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 7
+Location: 3
+Pick up: 7
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 6
+Location: 1
+Pick up: 6
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 7
+Location: 4
+Pick up: 7
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 1
+Location: 1
+Pick up: 1
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 5
+Location: 5
+Pick up: 5
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 5
+Location: 2
+Pick up: 5
+		Drop off: 4
+		Location: 4
+		Pick up: 0
+Drop off: 4
+Location: 4
+Pick up: 4
+		Drop off: 2
+Drop off: 0
+		Location: 2
+		Pick up: 2
+Location: 0
+Pick up: 2
+		Drop off: 0
+		Location: 0
+		Pick up: 4
+Drop off: 0
+		Drop off: 3
+Location: 0
+Pick up: 0
+		Location: 3
+		Pick up: 0
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 2
+		Location: 1
+		Pick up: 2
+Drop off: 1
+Location: 1
+Pick up: 6
+		Drop off: 1
+Drop off: 2
+		Location: 1
+		Pick up: 3
+Location: 2
+Pick up: 3
+Drop off: 1
+		Drop off: 1
+Location: 1
+Pick up: 1
+		Location: 1
+		Pick up: 1
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 3
+		Location: 6
+		Pick up: 3
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 7
+		Location: 6
+		Pick up: 7
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 4
+		Location: 5
+		Pick up: 4
+Drop off: 3
+Location: 3
+Pick up: 1
+		Drop off: 3
+Drop off: 0
+		Location: 3
+		Pick up: 0
+Location: 0
+Pick up: 0
+Drop off: 4
+Location: 4
+Pick up: 1
+		Drop off: 4
+		Location: 4
+		Pick up: 7
+Drop off: 2
+		Drop off: 5
+Location: 2
+Pick up: 7
+		Location: 5
+		Pick up: 7
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 4
+Location: 4
+Pick up: 4
+		Drop off: 3
+		Location: 3
+		Pick up: 7
+Drop off: 3
+		Drop off: 5
+Location: 3
+Pick up: 2
+		Location: 5
+		Pick up: 2
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 2
+		Location: 5
+		Pick up: 2
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 1
+		Location: 4
+		Pick up: 1
+Drop off: 2
+Location: 2
+Pick up: 6
+		Drop off: 2
+Drop off: 3
+		Location: 2
+		Pick up: 5
+Location: 3
+Pick up: 5
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 2
+		Location: 3
+		Pick up: 2
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 4
+		Location: 5
+		Pick up: 4
+Drop off: 0
+Location: 0
+Pick up: 1
+		Drop off: 0
+Drop off: 3
+		Location: 0
+		Pick up: 3
+Location: 3
+Pick up: 3
+Drop off: 4
+Location: 4
+Pick up: 6
+		Drop off: 4
+Drop off: 1
+		Location: 4
+		Pick up: 4
+Location: 1
+Pick up: 4
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 6
+Location: 3
+Pick up: 6
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 7
+Location: 1
+Pick up: 7
+		Drop off: 2
+Drop off: 2
+		Location: 2
+		Pick up: 4
+Location: 2
+Pick up: 4
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 4
+Location: 0
+Pick up: 4
+		Drop off: 6
+		Location: 6
+		Pick up: 6
+Drop off: 6
+		Drop off: 5
+Location: 6
+Pick up: 0
+		Location: 5
+		Pick up: 0
+		Drop off: 5
+		Location: 5
+		Pick up: 5
+Drop off: 5
+Location: 5
+Pick up: 6
+		Drop off: 2
+Drop off: 3
+		Location: 2
+		Pick up: 4
+Location: 3
+Pick up: 4
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 7
+		Location: 5
+		Pick up: 7
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 4
+		Location: 0
+		Pick up: 4
+Drop off: 3
+Location: 3
+Pick up: 1
+		Drop off: 3
+		Location: 3
+		Pick up: 7
+Drop off: 2
+Location: 2
+Pick up: 3
+		Drop off: 0
+Drop off: 5
+		Location: 0
+		Pick up: 1
+Location: 5
+Pick up: 1
+		Drop off: 2
+		Location: 2
+		Pick up: 3
+Drop off: 2
+Location: 2
+Pick up: 6
+		Drop off: 4
+Drop off: 1
+		Location: 4
+		Pick up: 2
+Location: 1
+Pick up: 2
+Drop off: 0
+Location: 0
+Pick up: 7
+		Drop off: 0
+		Location: 0
+		Pick up: 7
+Drop off: 3
+		Drop off: 6
+Location: 3
+Pick up: 7
+		Location: 6
+		Pick up: 7
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 3
+Location: 6
+Pick up: 3
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 3
+Location: 5
+Pick up: 3
+		Drop off: 0
+		Location: 0
+		Pick up: 5
+Drop off: 0
+Location: 0
+Pick up: 5
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 7
+Location: 6
+Pick up: 7
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 4
+Location: 3
+Pick up: 4
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 4
+Location: 0
+Pick up: 4
+		Drop off: 1
+		Location: 1
+		Pick up: 1
+Drop off: 1
+Location: 1
+Pick up: 7
+		Drop off: 3
+		Location: 3
+		Pick up: 7
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 5
+		Location: 3
+		Pick up: 5
+Drop off: 4
+		Drop off: 4
+Location: 4
+Pick up: 3
+		Location: 4
+		Pick up: 3
+Drop off: 6
+		Drop off: 6
+Location: 6
+Pick up: 6
+		Location: 6
+		Pick up: 6
+Drop off: 3
+		Drop off: 3
+Location: 3
+Pick up: 1
+		Location: 3
+		Pick up: 1
+Drop off: 0
+		Drop off: 0
+Location: 0
+Pick up: 5
+		Location: 0
+		Pick up: 5
+Drop off: 2
+Location: 2
+Pick up: 2
+		Drop off: 2
+Drop off: 3
+		Location: 2
+		Pick up: 0
+Location: 3
+Pick up: 0
+		Drop off: 5
+Drop off: 5
+		Location: 5
+		Pick up: 3
+Location: 5
+Pick up: 3
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 0
+Location: 1
+Pick up: 0
+		Drop off: 6
+		Location: 6
+		Pick up: 6
+Drop off: 6
+		Drop off: 4
+Location: 6
+Pick up: 2
+		Location: 4
+		Pick up: 2
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 3
+Location: 4
+Pick up: 3
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 4
+Location: 0
+Pick up: 4
+		Drop off: 6
+		Location: 6
+		Pick up: 0
+Drop off: 6
+		Drop off: 5
+Location: 6
+Pick up: 0
+		Location: 5
+		Pick up: 0
+		Drop off: 4
+		Location: 4
+		Pick up: 2
+Drop off: 4
+		Drop off: 3
+Location: 4
+Pick up: 4
+		Location: 3
+		Pick up: 4
+Drop off: 3
+Location: 3
+Pick up: 1
+		Drop off: 3
+Drop off: 5
+		Location: 3
+		Pick up: 2
+Location: 5
+Pick up: 2
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 1
+Location: 4
+Pick up: 1
+Drop off: 5
+		Drop off: 5
+Location: 5
+Pick up: 2
+		Location: 5
+		Pick up: 2
+Drop off: 6
+Location: 6
+Pick up: 3
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 0
+Location: 6
+Pick up: 0
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 0
+Location: 1
+Pick up: 0
+		Drop off: 4
+Drop off: 4
+		Location: 4
+		Pick up: 3
+Location: 4
+Pick up: 3
+		Drop off: 1
+Drop off: 1
+		Location: 1
+		Pick up: 2
+Location: 1
+Pick up: 2
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 5
+Location: 6
+Pick up: 5
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 7
+Location: 3
+Pick up: 7
+		Drop off: 3
+Drop off: 3
+		Location: 3
+		Pick up: 2
+Location: 3
+Pick up: 2
+		Drop off: 0
+Drop off: 0
+		Location: 0
+		Pick up: 3
+Location: 0
+Pick up: 3
+		Drop off: 6
+Drop off: 6
+		Location: 6
+		Pick up: 3
+Location: 6
+Pick up: 3
+		Drop off: 0
+		Location: 0
+		Pick up: 5
+Drop off: 0
+            C++/CSIM Simulation Report (Version 19.0 for Linux x86)
+
+                           Fri Jun 16 16:32:28 2017
+
+
+                     Ending simulation time:     86400.000
+                     Elapsed simulation time:    86400.000
+                     CPU time used (seconds):        0.000
+
+
+FACILITY SUMMARY 
+
+facility     service    service          through-    queue     response   compl
+name           disc      time    util.     put       length      time     count
+--------------------------------------------------------------------------------
+update work  fcfs       3.63564  0.122    0.03358    0.17642    5.25422     2901
+
+
+
+STATUS OF GLOBAL MAILBOXES 
+
+                message    process 
+name.id          count      count      processes
+--------------------------------------------------------------------------------
+id_box.12         411          0      
+                                                                                
+STATUS OF GLOBAL EVENTS
+
+                         counts
+name.id        state   wait/queue      processes
+--------------------------------------------------------------------------------
+going up.se.1   !occ      0/0    wait:
+going up[0].2   !occ    145/0    wait: Incoming.17   Interfloor.28 Interfloor.35
+                                       Incoming.49   Interfloor.55 Interfloor.57
+                                       Incoming.64   Incoming.69   Interfloor.73
+                                       Interfloor.84 Interfloor.88 Interfloor.93
+                                       Incoming.97   Interfloor.99 Incoming.101 
+                                       Interfloor.10 Interfloor.10 Interfloor.10
+                                       Incoming.108  Interfloor.11 Interfloor.11
+                                       Interfloor.12 Interfloor.12 Incoming.124 
+                                       Incoming.127  Interfloor.13 Interfloor.13
+                                       Interfloor.13 Incoming.146  Interfloor.15
+                                       Incoming.166  Interfloor.17 Interfloor.17
+                                       Incoming.180  Incoming.184  Interfloor.19
+                                       Incoming.196  Incoming.209  Interfloor.21
+                                       Incoming.213  Interfloor.21 Interfloor.22
+                                       Incoming.231  Interfloor.23 Interfloor.23
+                                       Interfloor.24 Interfloor.24 Interfloor.25
+                                       Interfloor.26 Interfloor.27 Incoming.284 
+                                       Interfloor.28 Interfloor.29 Interfloor.29
+                                       Interfloor.29 Interfloor.29 Incoming.303 
+                                       Incoming.305  Interfloor.31 Incoming.317 
+                                       Interfloor.31 Interfloor.32 Interfloor.33
+                                       Interfloor.33 Interfloor.34 Incoming.360 
+                                       Incoming.362  Interfloor.36 Interfloor.36
+                                       Interfloor.37 Interfloor.37 Interfloor.38
+                                       Incoming.384  Interfloor.38 Incoming.404 
+                                       Interfloor.40 Incoming.414  Interfloor.42
+                                       Interfloor.42 Incoming.427  Interfloor.42
+                                       Incoming.431  Incoming.433  Interfloor.43
+                                       Interfloor.43 Interfloor.44 Interfloor.44
+                                       Interfloor.44 Interfloor.45 Interfloor.46
+                                       Interfloor.47 Incoming.487  Interfloor.48
+                                       Incoming.493  Interfloor.50 Incoming.512 
+                                       Interfloor.51 Interfloor.51 Interfloor.52
+                                       Interfloor.52 Interfloor.52 Interfloor.53
+                                       Interfloor.53 Incoming.536  Interfloor.53
+                                       Incoming.542  Incoming.544  Interfloor.55
+                                       Interfloor.55 Interfloor.55 Interfloor.56
+                                       Interfloor.57 Interfloor.57 Interfloor.57
+                                       Interfloor.58 Interfloor.58 Interfloor.58
+                                       Interfloor.59 Interfloor.59 Incoming.610 
+                                       Interfloor.61 Interfloor.62 Interfloor.62
+                                       Interfloor.63 Interfloor.63 Interfloor.64
+                                       Interfloor.64 Incoming.645  Interfloor.65
+                                       Interfloor.65 Interfloor.66 Interfloor.66
+                                       Incoming.667  Interfloor.66 Incoming.671 
+                                       Interfloor.67 Incoming.675  Interfloor.67
+                                       Interfloor.68 Interfloor.68 Incoming.686 
+                                       Interfloor.69 Interfloor.69 Incoming.694 
+                                       Interfloor.70                            
+going up[1].3   !occ    153/0    wait: Incoming.16   Incoming.18   Interfloor.20
+                                       Interfloor.23 Incoming.25   Incoming.29  
+                                       Interfloor.33 Interfloor.36 Interfloor.40
+                                       Interfloor.42 Interfloor.50 Interfloor.52
+                                       Incoming.61   Interfloor.67 Interfloor.70
+                                       Interfloor.72 Interfloor.75 Interfloor.79
+                                       Interfloor.83 Incoming.85   Interfloor.98
+                                       Interfloor.10 Incoming.107  Interfloor.11
+                                       Interfloor.11 Interfloor.12 Interfloor.12
+                                       Incoming.132  Interfloor.13 Interfloor.13
+                                       Interfloor.14 Incoming.153  Interfloor.15
+                                       Incoming.159  Interfloor.16 Interfloor.16
+                                       Incoming.171  Interfloor.17 Interfloor.17
+                                       Interfloor.17 Interfloor.17 Incoming.181 
+                                       Interfloor.18 Interfloor.19 Interfloor.20
+                                       Incoming.203  Interfloor.20 Interfloor.20
+                                       Incoming.214  Incoming.219  Interfloor.22
+                                       Incoming.226  Interfloor.23 Interfloor.23
+                                       Incoming.237  Interfloor.24 Interfloor.24
+                                       Interfloor.25 Interfloor.25 Interfloor.26
+                                       Incoming.266  Interfloor.27 Incoming.279 
+                                       Interfloor.28 Interfloor.28 Interfloor.29
+                                       Interfloor.30 Interfloor.30 Interfloor.30
+                                       Interfloor.30 Interfloor.31 Interfloor.31
+                                       Incoming.316  Interfloor.32 Interfloor.33
+                                       Interfloor.33 Interfloor.34 Incoming.351 
+                                       Incoming.359  Interfloor.36 Interfloor.37
+                                       Interfloor.37 Interfloor.37 Incoming.379 
+                                       Incoming.381  Interfloor.39 Interfloor.39
+                                       Interfloor.39 Incoming.403  Interfloor.41
+                                       Interfloor.42 Interfloor.42 Incoming.424 
+                                       Incoming.434  Interfloor.44 Incoming.444 
+                                       Interfloor.44 Interfloor.45 Interfloor.46
+                                       Incoming.468  Incoming.470  Interfloor.47
+                                       Interfloor.47 Interfloor.47 Incoming.485 
+                                       Interfloor.48 Interfloor.49 Interfloor.49
+                                       Incoming.496  Interfloor.49 Interfloor.50
+                                       Incoming.507  Interfloor.50 Incoming.517 
+                                       Interfloor.52 Incoming.523  Incoming.525 
+                                       Interfloor.52 Interfloor.53 Incoming.539 
+                                       Incoming.541  Interfloor.55 Interfloor.56
+                                       Incoming.569  Interfloor.57 Interfloor.57
+                                       Interfloor.57 Incoming.581  Interfloor.59
+                                       Interfloor.59 Interfloor.59 Interfloor.60
+                                       Incoming.605  Interfloor.61 Incoming.615 
+                                       Incoming.620  Incoming.626  Interfloor.62
+                                       Interfloor.62 Interfloor.63 Interfloor.64
+                                       Interfloor.65 Interfloor.65 Incoming.678 
+                                       Incoming.680  Incoming.685  Interfloor.68
+                                       Interfloor.68 Interfloor.69 Interfloor.69
+                                       Incoming.695  Interfloor.69 Interfloor.70
+going down..4   !occ      0/0    wait:
+going down[.5   !occ    195/0    wait: Interfloor.12 Interfloor.15 Interfloor.19
+                                       Outgoing.21   Interfloor.24 Interfloor.26
+                                       Interfloor.30 Interfloor.32 Interfloor.34
+                                       Interfloor.37 Outgoing.39   Interfloor.41
+                                       Outgoing.43   Interfloor.45 Interfloor.47
+                                       Interfloor.51 Interfloor.53 Interfloor.60
+                                       Interfloor.62 Interfloor.66 Interfloor.71
+                                       Interfloor.76 Outgoing.78   Interfloor.80
+                                       Interfloor.82 Interfloor.86 Interfloor.91
+                                       Interfloor.95 Outgoing.110  Interfloor.11
+                                       Interfloor.11 Interfloor.12 Interfloor.12
+                                       Interfloor.13 Outgoing.140  Interfloor.14
+                                       Interfloor.14 Interfloor.14 Interfloor.15
+                                       Outgoing.152  Interfloor.15 Outgoing.158 
+                                       Interfloor.16 Interfloor.16 Interfloor.16
+                                       Interfloor.16 Interfloor.17 Interfloor.17
+                                       Interfloor.17 Outgoing.182  Outgoing.186 
+                                       Interfloor.18 Interfloor.19 Interfloor.19
+                                       Interfloor.19 Outgoing.200  Interfloor.20
+                                       Interfloor.20 Outgoing.206  Outgoing.215 
+                                       Interfloor.22 Interfloor.22 Interfloor.22
+                                       Outgoing.225  Interfloor.22 Interfloor.23
+                                       Outgoing.238  Interfloor.24 Interfloor.24
+                                       Outgoing.245  Interfloor.25 Interfloor.25
+                                       Interfloor.25 Interfloor.25 Interfloor.26
+                                       Interfloor.26 Interfloor.26 Interfloor.26
+                                       Interfloor.26 Outgoing.270  Interfloor.27
+                                       Interfloor.27 Outgoing.278  Interfloor.28
+                                       Outgoing.282  Outgoing.288  Interfloor.29
+                                       Interfloor.30 Interfloor.30 Outgoing.310 
+                                       Interfloor.31 Outgoing.323  Outgoing.325 
+                                       Outgoing.327  Interfloor.32 Interfloor.33
+                                       Outgoing.333  Interfloor.33 Interfloor.34
+                                       Outgoing.346  Interfloor.34 Interfloor.35
+                                       Interfloor.35 Outgoing.354  Interfloor.35
+                                       Interfloor.35 Interfloor.36 Interfloor.37
+                                       Interfloor.37 Outgoing.378  Interfloor.38
+                                       Outgoing.386  Interfloor.39 Interfloor.39
+                                       Interfloor.39 Interfloor.39 Interfloor.39
+                                       Interfloor.40 Outgoing.402  Interfloor.40
+                                       Outgoing.410  Interfloor.41 Interfloor.41
+                                       Outgoing.418  Interfloor.42 Interfloor.43
+                                       Interfloor.44 Interfloor.44 Interfloor.45
+                                       Interfloor.45 Interfloor.45 Interfloor.45
+                                       Interfloor.46 Interfloor.46 Outgoing.465 
+                                       Outgoing.469  Interfloor.47 Interfloor.47
+                                       Interfloor.47 Outgoing.480  Outgoing.482 
+                                       Interfloor.48 Interfloor.49 Interfloor.49
+                                       Outgoing.498  Interfloor.50 Outgoing.502 
+                                       Interfloor.50 Outgoing.506  Interfloor.51
+                                       Interfloor.51 Outgoing.524  Outgoing.526 
+                                       Outgoing.532  Interfloor.54 Interfloor.54
+                                       Interfloor.54 Outgoing.550  Interfloor.55
+                                       Interfloor.56 Interfloor.56 Interfloor.56
+                                       Outgoing.568  Interfloor.57 Outgoing.576 
+                                       Interfloor.58 Interfloor.58 Interfloor.59
+                                       Outgoing.594  Interfloor.59 Interfloor.60
+                                       Interfloor.60 Interfloor.60 Outgoing.608 
+                                       Interfloor.61 Interfloor.61 Outgoing.619 
+                                       Interfloor.62 Interfloor.62 Interfloor.63
+                                       Interfloor.63 Interfloor.63 Interfloor.64
+                                       Outgoing.649  Outgoing.653  Interfloor.65
+                                       Interfloor.66 Interfloor.66 Interfloor.67
+                                       Interfloor.68 Interfloor.68 Interfloor.69
+                                       Interfloor.69 Outgoing.700  Outgoing.702 
+going down[.6   !occ    200/0    wait: Interfloor.13 Interfloor.14 Interfloor.22
+                                       Interfloor.27 Interfloor.31 Interfloor.38
+                                       Interfloor.44 Interfloor.46 Interfloor.48
+                                       Outgoing.54   Outgoing.56   Outgoing.58  
+                                       Interfloor.59 Outgoing.63   Interfloor.65
+                                       Outgoing.68   Outgoing.74   Interfloor.77
+                                       Interfloor.81 Interfloor.87 Interfloor.89
+                                       Interfloor.90 Interfloor.92 Interfloor.94
+                                       Interfloor.96 Interfloor.10 Outgoing.104 
+                                       Interfloor.10 Interfloor.11 Interfloor.11
+                                       Outgoing.119  Outgoing.121  Interfloor.12
+                                       Interfloor.13 Outgoing.135  Interfloor.13
+                                       Interfloor.14 Interfloor.14 Interfloor.14
+                                       Outgoing.149  Interfloor.15 Outgoing.155 
+                                       Interfloor.16 Interfloor.16 Interfloor.16
+                                       Interfloor.18 Interfloor.18 Outgoing.187 
+                                       Interfloor.19 Interfloor.19 Outgoing.195 
+                                       Interfloor.19 Interfloor.20 Interfloor.21
+                                       Interfloor.21 Outgoing.216  Interfloor.21
+                                       Interfloor.22 Interfloor.22 Interfloor.23
+                                       Interfloor.23 Outgoing.240  Outgoing.244 
+                                       Interfloor.24 Outgoing.255  Interfloor.25
+                                       Outgoing.259  Interfloor.26 Outgoing.268 
+                                       Outgoing.271  Interfloor.27 Interfloor.27
+                                       Interfloor.28 Interfloor.28 Interfloor.28
+                                       Outgoing.293  Interfloor.29 Interfloor.29
+                                       Interfloor.29 Interfloor.30 Interfloor.30
+                                       Interfloor.31 Interfloor.31 Interfloor.32
+                                       Interfloor.32 Interfloor.32 Outgoing.328 
+                                       Interfloor.33 Outgoing.332  Interfloor.33
+                                       Interfloor.34 Interfloor.34 Interfloor.34
+                                       Interfloor.34 Interfloor.34 Interfloor.35
+                                       Interfloor.35 Outgoing.357  Interfloor.36
+                                       Interfloor.36 Interfloor.36 Outgoing.369 
+                                       Interfloor.37 Interfloor.38 Interfloor.38
+                                       Outgoing.387  Interfloor.38 Interfloor.39
+                                       Interfloor.39 Interfloor.40 Interfloor.40
+                                       Interfloor.40 Interfloor.40 Interfloor.41
+                                       Interfloor.41 Interfloor.41 Interfloor.41
+                                       Interfloor.42 Interfloor.42 Interfloor.43
+                                       Interfloor.43 Outgoing.436  Interfloor.43
+                                       Outgoing.442  Outgoing.448  Interfloor.45
+                                       Outgoing.452  Interfloor.45 Interfloor.45
+                                       Interfloor.46 Interfloor.46 Interfloor.46
+                                       Interfloor.47 Outgoing.474  Interfloor.48
+                                       Interfloor.48 Interfloor.48 Interfloor.49
+                                       Interfloor.49 Outgoing.501  Interfloor.50
+                                       Interfloor.51 Interfloor.51 Interfloor.51
+                                       Outgoing.519  Interfloor.52 Interfloor.53
+                                       Interfloor.53 Outgoing.535  Interfloor.54
+                                       Outgoing.545  Interfloor.54 Interfloor.54
+                                       Outgoing.553  Interfloor.55 Interfloor.55
+                                       Outgoing.558  Outgoing.560  Interfloor.56
+                                       Interfloor.56 Interfloor.57 Interfloor.57
+                                       Interfloor.58 Interfloor.58 Interfloor.58
+                                       Interfloor.58 Interfloor.59 Interfloor.59
+                                       Interfloor.60 Interfloor.60 Outgoing.607 
+                                       Interfloor.60 Interfloor.61 Interfloor.61
+                                       Interfloor.61 Interfloor.62 Interfloor.62
+                                       Interfloor.63 Outgoing.633  Interfloor.63
+                                       Interfloor.63 Outgoing.640  Interfloor.64
+                                       Interfloor.64 Interfloor.64 Interfloor.65
+                                       Outgoing.652  Outgoing.658  Interfloor.65
+                                       Interfloor.66 Outgoing.663  Outgoing.665 
+                                       Interfloor.66 Interfloor.67 Interfloor.67
+                                       Interfloor.67 Interfloor.67 Outgoing.683 
+                                       Interfloor.69 Outgoing.703               
+get off.set.7    occ      0/0    wait:
+get off[0].8     occ      0/0    wait:
+get off[1].9     occ      0/0    wait:
+Wakeup.11       !occ      1/0    wait: 0.2                                      
+id_box.mb.13     occ      0/0    wait:
+evnt_list_e.1   !occ      0/0    wait:
+converged.15    !occ      0/0    wait:
+end batch.16    !occ      0/0    wait:
+sim term.17     !occ      0/0    wait:
+                                                                                
