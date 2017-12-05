@@ -3,8 +3,20 @@
 
 // Determine if the ray intersects with the boolean of A and B.
 bool Boolean::Intersection(const Ray& ray, std::vector<Hit>& hits) const
-{
-    // TODO
+{	
+	//typeid()
+    if(type == type_intersection)
+    	if(A->Intersection(ray, hits) && B->Intersection(ray, hits))
+    		return true;
+
+    if(type == type_union)
+    	if(A->Intersection(ray, hits) || B->Intersection(ray, hits))
+    		return true;
+
+    if(type == type_difference)
+    	if(A->Intersection(ray, hits) && !B->Intersection(ray, hits))
+    		return true;
+
     return false;
 }
 

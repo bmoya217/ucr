@@ -134,4 +134,3 @@ for line in gs.readlines():
         print("no points")
 
 print("FINAL SCORE: %g"%total_score)
-

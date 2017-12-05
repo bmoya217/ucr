@@ -15,7 +15,7 @@ Intersection(const Ray& ray, std::vector<Hit>& hits) const
     hit.ray_exiting = true;
 
     if(hit.t < 0)
-        return false;
+    	return false;
 
     hits.push_back(hit);
     return true;
