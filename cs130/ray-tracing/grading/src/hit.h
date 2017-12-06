@@ -21,6 +21,10 @@ struct Hit
     bool ray_exiting;
 
     bool flip;
+
+    void print(){
+        std::cout << "{ " << t << ", " << ray_exiting << " }";
+    }
 };
 
 #endif

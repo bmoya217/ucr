@@ -20,7 +20,7 @@ Intersection(const Ray& ray, std::vector<Hit>& hits) const
 
     Hit hit;
     hit.object = this;
-    hit.t = (dot(x1, normal)-dot(ray.endpoint, normal)) / (dot(ray.direction,normal));
+    hit.t = dot(x1-ray.endpoint, normal) / dot(ray.direction,normal);
     hit.ray_exiting = true;
     hit.flip = false;
     hits.push_back(hit);
