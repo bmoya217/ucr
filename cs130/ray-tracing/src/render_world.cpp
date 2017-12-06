@@ -32,12 +32,13 @@ Object* Render_World::Closest_Intersection(const Ray& ray, Hit& hit)
     for(unsigned int o = 0; o < objects.size(); o++){
         vector<Hit> hits;
 
-        objects[o]->Intersection(ray, hits);
-        for(unsigned int h = 0; h < hits.size(); h++){
-            if(hits[h].t < min_t && hits[h].t > small_t){
-                min_t = hits[h].t;
-                closest = objects[o];
-                hit = hits[h];
+        if(objects[o]->Intersection(ray, hits)){
+            for(unsigned int h = 0; h < hits.size(); h++){
+                if(hits[h].t <= min_t && hits[h].t > small_t){
+                    min_t = hits[h].t;
+                    closest = objects[o];
+                    hit = hits[h];
+                }
             }
         }
     }
@@ -66,12 +67,17 @@ void Render_World::Render()
 // or the background color if there is no object intersection
 vec3 Render_World::Cast_Ray(const Ray& ray,int recursion_depth)
 {
-    //if(typeid() == typeid(Boolean))
     Hit hit;
     vec3 color;
+    double hold = 1.0;
+
     Object* closest = Closest_Intersection(ray, hit);
+    if(hit.flip){
+        cout << "test";
+        hold = -1.0;
+    }
     if(closest != NULL && recursion_depth <= recursion_depth_limit)
-        color = closest->material_shader->Shade_Surface(ray, ray.Point(hit.t), closest->Normal(ray.Point(hit.t)), 1);
+        color = closest->material_shader->Shade_Surface(ray, ray.Point(hit.t), hit.object->Normal(ray.Point(hit.t))*hold, 1);
     else
         color = background_shader->Shade_Surface(ray, color, color, 1);
 

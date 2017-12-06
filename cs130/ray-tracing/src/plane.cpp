@@ -9,15 +9,22 @@
 bool Plane::
 Intersection(const Ray& ray, std::vector<Hit>& hits) const
 {
+	if(dot(ray.endpoint-x1, normal) < 0){
+		Hit hit;
+	    hit.object = this;
+	    hit.t = 0;
+	    hit.ray_exiting = false;
+	    hit.flip = false;
+	    hits.push_back(hit);
+	}
+
     Hit hit;
     hit.object = this;
-    hit.t = (dot(x1, normal)-dot(ray.endpoint, normal)) / (dot(ray.direction,normal));;
+    hit.t = (dot(x1, normal)-dot(ray.endpoint, normal)) / (dot(ray.direction,normal));
     hit.ray_exiting = true;
-
-    if(hit.t < 0)
-    	return false;
-
+    hit.flip = false;
     hits.push_back(hit);
+
     return true;
 }
 

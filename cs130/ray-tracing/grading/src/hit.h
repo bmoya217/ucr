@@ -19,6 +19,8 @@ struct Hit
     // "object"?  This will tell you whether you will need to reverse the
     // normal that you compute.
     bool ray_exiting;
+
+    bool flip;
 };
 
 #endif
