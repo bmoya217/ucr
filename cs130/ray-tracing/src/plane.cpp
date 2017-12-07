@@ -33,3 +33,10 @@ Normal(const vec3& point) const
 {
     return normal;
 }
+
+bool Plane::Contains(const vec3& point) const
+{
+	if(dot(normal, point-x1) >= 0)
+		return false;
+	return true;
+}

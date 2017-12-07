@@ -37,5 +37,7 @@ public:
     // since these hits indicate that the ray started inside the object, not
     // that it actually intersects its surface.
     virtual vec3 Normal(const vec3& point) const=0;
+
+    virtual bool Contains(const vec3& point) const = 0;
 };
 #endif
