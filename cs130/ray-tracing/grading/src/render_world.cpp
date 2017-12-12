@@ -70,15 +70,15 @@ vec3 Render_World::Cast_Ray(const Ray& ray,int recursion_depth)
 {
     Hit hit;
     vec3 color;
-    double hold = 1.0;
+    double flip = 1.0;
 
     Object* closest = Closest_Intersection(ray, hit);
 
     if(hit.flip){
-        hold = -1.0;
+        flip = -1.0;
     }
     if(closest != NULL && recursion_depth <= recursion_depth_limit)
-        color = closest->material_shader->Shade_Surface(ray, ray.Point(hit.t), hit.object->Normal(ray.Point(hit.t))*hold, 1);
+        color = closest->material_shader->Shade_Surface(ray, ray.Point(hit.t), hit.object->Normal(ray.Point(hit.t))*flip, 1);
     else
         color = background_shader->Shade_Surface(ray, color, color, 1);
 

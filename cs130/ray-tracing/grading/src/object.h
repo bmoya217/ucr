@@ -39,5 +39,6 @@ public:
     virtual vec3 Normal(const vec3& point) const=0;
 
     virtual bool Contains(const vec3& point) const = 0;
+    virtual bool Inside(const vec3& point) const = 0;
 };
 #endif

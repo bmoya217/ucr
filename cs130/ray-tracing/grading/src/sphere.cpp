@@ -54,11 +54,17 @@ vec3 Sphere::Normal(const vec3& point) const
     return normal;
 }
 
-// true if point in circle, but not if its on the radius
 bool Sphere::Contains(const vec3& point) const
 {
     double distance_from_center = sqrt(dot(point-center,point-center));
-    if(distance_from_center+.00001 < radius)
+    if(distance_from_center - .00001 < radius)
+        return true;
+    return false;
+}
+bool Sphere::Inside(const vec3& point) const
+{
+    double distance_from_center = sqrt(dot(point-center,point-center));
+    if(distance_from_center + .00001 < radius)
         return true;
     return false;
 }

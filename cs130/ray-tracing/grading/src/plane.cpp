@@ -23,6 +23,7 @@ Intersection(const Ray& ray, std::vector<Hit>& hits) const
     hit.t = dot(x1-ray.endpoint, normal) / dot(ray.direction,normal);
     hit.ray_exiting = true;
     hit.flip = false;
+
     hits.push_back(hit);
 
     return true;
@@ -36,7 +37,13 @@ Normal(const vec3& point) const
 
 bool Plane::Contains(const vec3& point) const
 {
-	if(dot(normal, point-x1) >= 0)
+	if(dot(normal, point-x1)-.0001 > 0)
+		return false;
+	return true;
+}
+bool Plane::Inside(const vec3& point) const
+{
+	if(dot(normal, point-x1)+.0001 > 0)
 		return false;
 	return true;
 }
