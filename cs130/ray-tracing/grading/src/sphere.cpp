@@ -22,15 +22,13 @@ bool Sphere::Intersection(const Ray& ray, std::vector<Hit>& hits) const
 
     Hit hit1;
     hit1.object = this;
-    hit1.t = (len_cpr - dt);
+    hit1.t = len_cpr - dt;
     hit1.ray_exiting = false;
-    hit1.flip = false;
 
     Hit hit2;
     hit2.object = this;
     hit2.t = len_cpr + dt;
     hit2.ray_exiting = true;
-    hit2.flip = false;
     
     if(hit1.t < 0 && hit2.t < 0)
         return false;

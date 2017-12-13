@@ -20,8 +20,6 @@ struct Hit
     // normal that you compute.
     bool ray_exiting;
 
-    bool flip;
-
     void print(){
         std::cout << "{ " << t << ", " << ray_exiting << " }";
     }

@@ -23,6 +23,7 @@ Shade_Surface(const Ray& ray,const vec3& intersection_point,
     	ray_of_light.endpoint = world.lights[l]->position;
     	ray_of_light.direction = -point_to_light.normalized();
     	world.Closest_Intersection(ray_of_light, hit);
+        
     	if(hit.t+small_t > len_ptl || !world.enable_shadows){
 	    	diffuse += std::max(dot(same_side_normal, point_to_light.normalized()),0.0) * color_diffuse * world.lights[l]->Emitted_Light(ray)/(len_ptl*len_ptl);
     		specular += std::pow(std::max(dot(reflection.normalized(), point_to_camera.normalized()),0.0),specular_power) * color_specular * world.lights[l]->Emitted_Light(ray)/(len_ptl*len_ptl);

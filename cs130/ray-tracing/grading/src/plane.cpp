@@ -14,7 +14,6 @@ Intersection(const Ray& ray, std::vector<Hit>& hits) const
 	    hit.object = this;
 	    hit.t = 0;
 	    hit.ray_exiting = false;
-	    hit.flip = false;
 	    hits.push_back(hit);
 	}
 
@@ -22,7 +21,6 @@ Intersection(const Ray& ray, std::vector<Hit>& hits) const
     hit.object = this;
     hit.t = dot(x1-ray.endpoint, normal) / dot(ray.direction,normal);
     hit.ray_exiting = true;
-    hit.flip = false;
 
     hits.push_back(hit);
 
